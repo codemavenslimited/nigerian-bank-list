@@ -1,10 +1,4 @@
-{
-  "message": {
-    "success": [
-      "Send Money Information"
-    ]
-  },
-  "data": [
+"data": [
     {
       "id": 141,
       "code": "120001",
@@ -1050,4 +1044,3 @@
       "branches": null
     }
   ]
-}
